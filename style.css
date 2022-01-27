@@ -18,3 +18,8 @@
 .landing-section{
     min-height: calc(100vh - 100px);
 }
+
+/*----------Resource Section ----------*/
+.resource-section{
+    background-color: #F9FBFD;
+}
