@@ -29,3 +29,20 @@
     transform: rotateY(-35deg) rotateX(15deg);
     width: 100%;
 }
+
+/*----------Feedback Section ----------*/
+.feedback .carousel-item{
+    position: relative
+}
+.feedback .carousel-control-prev{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: -7%;
+}
+.feedback .carousel-control-next{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: -7%;
+}
