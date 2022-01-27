@@ -23,3 +23,9 @@
 .resource-section{
     background-color: #F9FBFD;
 }
+
+/*----------Experience Section----------*/
+.experience-desktop-img{
+    transform: rotateY(-35deg) rotateX(15deg);
+    width: 100%;
+}
