@@ -49,3 +49,9 @@
     transform: translateY(-50%);
     right: -7%;
 }
+
+/*----------Focused Section ----------*/
+.focused{
+    background-color: #F1F4F8;
+    padding: 130px 0 80px 0;
+}
